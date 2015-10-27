@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>vscode</id>
+        <version>0.9.2</version>
+        <title>Visual Studio Code</title>
+        <authors>Microsoft</authors>
+        <owners>Jason Goemaat</owners>
+        <licenseUrl>https://code.visualstudio.com/license#vscode</licenseUrl>
+        <projectUrl>https://code.visualstudio.com/</projectUrl>
+        <iconUrl>http://www.omnisharp.net/images/vscode.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Free IDE for editing modern ASP.NET 5 and Node.js applications</description>
+        <summary>Build and debug modern web and cloud applications</summary>
+        <releaseNotes>Version 0.9.2</releaseNotes>
+        <copyright>Sublime HQ Pty Ltd</copyright>
+        <tags>vscode editor text code node asp.net</tags>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+        <file src="vscode.png" target="vscode.png" />
+    </files>
+</package>
