@@ -8,7 +8,7 @@
         <owners>Jason Goemaat</owners>
         <licenseUrl>https://code.visualstudio.com/license#vscode</licenseUrl>
         <projectUrl>https://code.visualstudio.com/</projectUrl>
-        <iconUrl>https://github.com/JasonGoemaat/Chocolatey-vscode/blob/master/vscode.png</iconUrl>
+        <iconUrl>https://cdn.rawgit.com/JasonGoemaat/Chocolatey-vscode/master/vscode.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Free IDE for editing modern ASP.NET 5 and Node.js applications</description>
         <summary>Build and debug modern web and cloud applications</summary>
